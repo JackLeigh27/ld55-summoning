@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_player_state_default_animation",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_player_state_default_animation",
+  "parent":{
+    "name":"Default",
+    "path":"folders/1.Foundation/Characters/Player/States/Default.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

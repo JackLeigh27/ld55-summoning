@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_player_handle_state",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_player_handle_state",
+  "parent":{
+    "name":"States",
+    "path":"folders/1.Foundation/Characters/Player/States.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

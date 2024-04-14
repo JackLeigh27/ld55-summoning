@@ -1,0 +1,6 @@
+enum ETRANSITION_TYPE
+{
+	IN,
+	OUT,
+	COUNT
+}

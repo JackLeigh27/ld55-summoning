@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_draw_character_shadow",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_draw_character_shadow",
+  "parent":{
+    "name":"Shadows",
+    "path":"folders/1.Foundation/Characters/Shadows.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

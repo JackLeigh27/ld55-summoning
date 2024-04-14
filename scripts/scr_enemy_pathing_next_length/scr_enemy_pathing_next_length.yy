@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_enemy_pathing_next_length",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_enemy_pathing_next_length",
+  "parent":{
+    "name":"Pathing",
+    "path":"folders/1.Foundation/Characters/Enemies/Pathing.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

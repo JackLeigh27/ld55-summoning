@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_get_input_pressed",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_get_input_pressed",
+  "parent":{
+    "name":"Input",
+    "path":"folders/0.Core/Input.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

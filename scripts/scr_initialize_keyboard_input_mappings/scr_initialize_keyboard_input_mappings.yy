@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_initialize_keyboard_input_mappings",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_initialize_keyboard_input_mappings",
+  "parent":{
+    "name":"Keyboard",
+    "path":"folders/0.Core/Input/Keyboard.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

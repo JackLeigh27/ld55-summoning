@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_update_scale",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_update_scale",
+  "parent":{
+    "name":"Scaling",
+    "path":"folders/0.Core/Scaling.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

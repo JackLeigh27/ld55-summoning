@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"enum_pause_level",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"enum_pause_level",
+  "parent":{
+    "name":"Entities",
+    "path":"folders/0.Core/Entities.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

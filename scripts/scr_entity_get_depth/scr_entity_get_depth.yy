@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_entity_get_depth",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_entity_get_depth",
+  "parent":{
+    "name":"Entities",
+    "path":"folders/0.Core/Entities.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

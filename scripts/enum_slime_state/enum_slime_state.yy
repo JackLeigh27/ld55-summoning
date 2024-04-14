@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"enum_slime_state",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"enum_slime_state",
+  "parent":{
+    "name":"States",
+    "path":"folders/2.Enemies/Slime/States.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

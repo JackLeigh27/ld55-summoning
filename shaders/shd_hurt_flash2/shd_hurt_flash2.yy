@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"shd_hurt_flash2",
+  "name":"shd_hurt_flash2",
+  "parent":{
+    "name":"Enemies",
+    "path":"folders/1.Foundation/Characters/Enemies.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

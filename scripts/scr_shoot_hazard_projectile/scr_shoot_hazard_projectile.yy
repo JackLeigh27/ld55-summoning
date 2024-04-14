@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_shoot_hazard_projectile",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_shoot_hazard_projectile",
+  "parent":{
+    "name":"Projectile",
+    "path":"folders/1.Foundation/Hazards/Projectile.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

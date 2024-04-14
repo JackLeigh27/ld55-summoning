@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_game_start",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_game_start",
+  "parent":{
+    "name":"0.Core-Extension",
+    "path":"folders/0.Core-Extension.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

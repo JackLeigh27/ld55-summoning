@@ -1,0 +1,13 @@
+To set up a new input, you need to do the following:
+
+	1: Add the new input to enum_inputs
+	
+	2: Add a default macro for the input:
+		Keyboard -> macro_inputs_keyboard
+		Gamepad -> macro_inputs_gamepad (to be added)
+		
+	3: Update the default mappings scripts to use the default macro for the input
+		Keyboard - scr_set_default_key_mappings
+		Gamepad - scr_set_default_pad_mappings (to be added)
+		
+	4: Update scr_get_inputs to capture the state of the input each frame

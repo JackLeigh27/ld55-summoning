@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_temporarily_freeze_game",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_temporarily_freeze_game",
+  "parent":{
+    "name":"Entities",
+    "path":"folders/0.Core/Entities.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

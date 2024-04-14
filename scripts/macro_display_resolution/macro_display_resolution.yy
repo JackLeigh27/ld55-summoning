@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"macro_display_resolution",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"macro_display_resolution",
+  "parent":{
+    "name":"Display",
+    "path":"folders/0.Core-Extension/Display.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

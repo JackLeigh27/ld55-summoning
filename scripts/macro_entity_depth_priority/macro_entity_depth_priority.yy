@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"macro_entity_depth_priority",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"macro_entity_depth_priority",
+  "parent":{
+    "name":"Entities",
+    "path":"folders/0.Core-Extension/Entities.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

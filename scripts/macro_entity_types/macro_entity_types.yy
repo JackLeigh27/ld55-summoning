@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"macro_entity_types",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"macro_entity_types",
+  "parent":{
+    "name":"Entities",
+    "path":"folders/0.Core-Extension/Entities.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

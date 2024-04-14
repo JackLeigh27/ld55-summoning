@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_player_state_dying",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_player_state_dying",
+  "parent":{
+    "name":"Dying",
+    "path":"folders/1.Foundation/Characters/Player/States/Dying.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

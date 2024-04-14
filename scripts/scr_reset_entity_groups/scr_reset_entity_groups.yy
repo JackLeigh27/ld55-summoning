@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_reset_entity_groups",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_reset_entity_groups",
+  "parent":{
+    "name":"Types",
+    "path":"folders/0.Core/Entities/Types.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

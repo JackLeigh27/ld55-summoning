@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"enum_cast_type",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"enum_cast_type",
+  "parent":{
+    "name":"EvilWizard",
+    "path":"folders/1.Foundation/Characters/Enemies/EvilWizard.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

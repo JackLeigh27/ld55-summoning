@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"enum_game_over_state",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"enum_game_over_state",
+  "parent":{
+    "name":"GameOver",
+    "path":"folders/1.Foundation/Levels/GameOver.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

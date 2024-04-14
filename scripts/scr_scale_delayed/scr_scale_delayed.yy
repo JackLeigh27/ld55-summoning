@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_scale_delayed",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_scale_delayed",
+  "parent":{
+    "name":"Scaling",
+    "path":"folders/0.Core/Scaling.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

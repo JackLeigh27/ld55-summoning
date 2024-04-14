@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_register_entity_types",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_register_entity_types",
+  "parent":{
+    "name":"Types",
+    "path":"folders/0.Core/Entities/Types.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"enum_inputs",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"enum_inputs",
+  "parent":{
+    "name":"Input",
+    "path":"folders/0.Core-Extension/Input.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

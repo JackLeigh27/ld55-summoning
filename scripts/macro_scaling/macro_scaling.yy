@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"macro_scaling",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"macro_scaling",
+  "parent":{
+    "name":"Scaling",
+    "path":"folders/0.Core-Extension/Scaling.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

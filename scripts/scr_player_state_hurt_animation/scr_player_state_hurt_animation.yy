@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_player_state_hurt_animation",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_player_state_hurt_animation",
+  "parent":{
+    "name":"Hurt",
+    "path":"folders/1.Foundation/Characters/Player/States/Hurt.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"note_input_configuration",
+  "name":"note_input_configuration",
+  "parent":{
+    "name":"Input",
+    "path":"folders/0.Core-Extension/Input.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

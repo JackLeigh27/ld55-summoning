@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"enum_player_state",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"enum_player_state",
+  "parent":{
+    "name":"States",
+    "path":"folders/1.Foundation/Characters/Player/States.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"macro_camera",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"macro_camera",
+  "parent":{
+    "name":"Camera",
+    "path":"folders/0.Core-Extension/Display/Camera.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

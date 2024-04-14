@@ -1,0 +1,11 @@
+enum EINPUT
+{
+	LEFT,
+	RIGHT,
+	UP,
+	DOWN,
+	RUN,
+	SHOOT,
+	PAUSE,
+	COUNT
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_finish_level",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_finish_level",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/1.Foundation/Levels/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

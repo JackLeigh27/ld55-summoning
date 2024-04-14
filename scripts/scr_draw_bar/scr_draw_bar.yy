@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_draw_bar",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_draw_bar",
+  "parent":{
+    "name":"Bars",
+    "path":"folders/0.Core/Drawing/Bars.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

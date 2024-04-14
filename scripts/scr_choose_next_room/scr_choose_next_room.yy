@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_choose_next_room",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_choose_next_room",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/1.Foundation/Levels/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

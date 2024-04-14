@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_scale_value_by_points",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_scale_value_by_points",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/1.Foundation/Levels/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

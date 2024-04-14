@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"enum_transition_type",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"enum_transition_type",
+  "parent":{
+    "name":"Transitions",
+    "path":"folders/1.Foundation/Transitions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"note_pango_base",
+  "name":"note_pango_base",
+  "parent":{
+    "name":"summoning",
+    "path":"summoning.yyp",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

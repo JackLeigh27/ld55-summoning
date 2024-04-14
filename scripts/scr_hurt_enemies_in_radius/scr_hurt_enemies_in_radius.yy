@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_hurt_enemies_in_radius",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_hurt_enemies_in_radius",
+  "parent":{
+    "name":"Spell",
+    "path":"folders/1.Foundation/Characters/Wizard/Spell.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"macro_inputs_keyboard",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"macro_inputs_keyboard",
+  "parent":{
+    "name":"Keyboard",
+    "path":"folders/0.Core-Extension/Input/Keyboard.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

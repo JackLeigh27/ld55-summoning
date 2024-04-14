@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_convert_milliseconds_to_time",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_convert_milliseconds_to_time",
+  "parent":{
+    "name":"GameOver",
+    "path":"folders/1.Foundation/Levels/GameOver.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

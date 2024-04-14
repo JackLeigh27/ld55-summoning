@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_check_keyboard_input",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_check_keyboard_input",
+  "parent":{
+    "name":"Keyboard",
+    "path":"folders/0.Core/Input/Keyboard.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

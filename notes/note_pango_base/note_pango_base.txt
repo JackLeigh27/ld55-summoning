@@ -1,0 +1,22 @@
+This is a base package which projects should be built from.
+
+It provides a basic setup which should be extended:
+
+* 0.Core:
+	This has the basic fundamentals that power the game:
+		- Game initialization
+		- Entity management
+		- Input handling
+		- Display management
+		- Graphics scaling
+	Do NOT edit this folder unless something should be added to the base package.
+	Any modifications specific to your game should be done in the extension folder or additional folders.
+		
+* 0.Core-Extension:
+	This folder allows you to:
+		- Configure game initializationn
+		- Configure new inputs
+		- Set default scaling values
+		- Bind new entity types
+		
+Anything that does not apply to the above should be in its own folder.

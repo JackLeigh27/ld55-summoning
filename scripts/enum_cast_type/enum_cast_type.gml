@@ -1,0 +1,6 @@
+enum ECAST_TYPE
+{
+	SPELL,
+	SUMMON,
+	COUNT
+}

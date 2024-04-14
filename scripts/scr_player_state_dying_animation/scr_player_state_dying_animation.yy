@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_player_state_dying_animation",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_player_state_dying_animation",
+  "parent":{
+    "name":"Dying",
+    "path":"folders/1.Foundation/Characters/Player/States/Dying.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
