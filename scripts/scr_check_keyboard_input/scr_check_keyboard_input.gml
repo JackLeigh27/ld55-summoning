@@ -1,5 +1,5 @@
 function scr_check_keyboard_input(_input)
-{
+{	
 	var _key = obj_input_manager.keyboard_mappings[| _input];
 	
 	if(

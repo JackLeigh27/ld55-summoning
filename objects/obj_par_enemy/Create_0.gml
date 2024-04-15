@@ -14,8 +14,8 @@ path = undefined;
 hole_frames = 30;
 hole_frames_max = hole_frames;
 
-hole_left_bound = -sprite_width/3;
-hole_right_bound = sprite_width/3;
+hole_left_bound = -sprite_width/4;
+hole_right_bound = sprite_width/4;
 hole_top_bound = -sprite_height/24;
 hole_bottom_bound = sprite_height/16;
 
@@ -41,6 +41,13 @@ function update_end()
 	)
 	{
 		hole_frames--;
+		
+		var _nearest_spawn = instance_nearest(x,y,obj_enemy_spawn_point);
+		var _direction = point_direction(x,y,_nearest_spawn.x,_nearest_spawn.y);
+		
+		x += lengthdir_x(2, _direction);
+		y += lengthdir_y(2, _direction);
+		
 		if(hole_frames<=0)
 		{
 			audio_play_sound(snd_enemy_die,0,false);

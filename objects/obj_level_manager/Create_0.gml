@@ -3,8 +3,11 @@
 rooms = [
 	rm_level_1,
 	rm_level_2,
-	rm_level_3
+	rm_level_3,
+	rm_level_4,
+	rm_level_5
 ];
+last_room = noone;
 
 depth = room_height;
 
